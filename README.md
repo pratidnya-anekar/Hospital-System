@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online-Hospital-Management-System
 HMS Project which covers all the aspects of hospital.
 
@@ -21,3 +22,6 @@ Billing module
 Order module
 
 For updates and reports visit: https://www.studentprojectguide.com/php/online-hospital-management-system/
+=======
+# Hospital-System
+>>>>>>> bdb66e7330c3190aa4ca1e5414172d7faf69bf6e
